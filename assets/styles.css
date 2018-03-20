@@ -47,7 +47,7 @@ a{
 }
 
 section.animated {
-    animation-duration: 2s;
+    animation-duration: 1.5s;
 }
 
 #landing{
@@ -59,6 +59,8 @@ section.animated {
     background-position: bottom;
     height: 100vh;
     width: 100vw;
+    transform:scale(1);
+    transition: 10s;
 }
 
 #about-text{
@@ -98,6 +100,7 @@ section.animated {
     transform:scale(1.02);
     transition: 10s;
   }
+
 
   .profile{
     width:9em;
