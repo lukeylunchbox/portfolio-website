@@ -26,11 +26,12 @@
      <div class="title-wrapper">
          <h1 class="main-title">Luke Colcott</h1>
      </div>
-    </section> 
 
+    </section> 
     <section id="about-header">
         <img class="profile" src='/assets/img/profile.jpg' alt="Photo of Luke">
         <h1 class="about-title">About me</h1>
+       
     </section>
     <div class="line1">
 
@@ -45,11 +46,7 @@
                 <br>
                 <br>
                 <br>
-
-
-                <form method="get" action="/assets/img/resume.jpeg/">
-                        <button id="resume" type="submit">Download Resume</button>
-                     </form>
+                <a href="/assets/resume.pages" <button id="resume" type="submit">Download Resume</button></a>
         <div id="code-icons">
                 <i class="devicon-mongodb-plain-wordmark"></i>
                 <i class="devicon-javascript-plain"></i>
@@ -70,7 +67,9 @@
     <section id="portfolio-text">
         <p>Please take a look at my Github and Codepen pages to see what I have been building lately</p>
     </section>
-        <div id="portfolio-content"></div>
+        <div id="portfolio-content">
+
+        </div>
     <section id="icons">
        <div class="icons">
             <a href="https://github.com/lukeylunchbox"><i class="fa fa-github fa-3x"></i></a>
@@ -92,7 +91,7 @@
                       <label><span>Message: </span><textarea name="message" style="height:200px"></textarea></label>
                     </p>
                     <p>
-                      <button type="submit">Send</button>
+                      <button id="send-button" type="submit">Send</button>
                     </p>
                   </form>
         </div>
