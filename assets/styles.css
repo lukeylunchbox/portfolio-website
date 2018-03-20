@@ -67,6 +67,10 @@ section.animated {
         transform:scale(1);
         transition: 12s;
     }
+    #landing:hover{
+        transform:scale(1.02);
+        transition: 12s;
+    }
   }
   
 
@@ -103,10 +107,6 @@ section.animated {
     /* position: absolute; */
   } 
 
-  #landing:hover{
-    transform:scale(1.02);
-    transition: 12s;
-  }
 
 
   .profile{
