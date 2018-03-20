@@ -62,7 +62,7 @@ section.animated {
 }
 
   
-@media (min-width: 700px) {
+/* @media (min-width: 700px) {
     #landing {
         transform:scale(1);
         transition: 12s;
@@ -71,7 +71,7 @@ section.animated {
         transform:scale(1.02);
         transition: 12s;
     }
-  }
+  } */
   
 
 #about-text{
