@@ -67,7 +67,7 @@ section.animated {
     transform:scale(1.02);
     transition: 12s;
 } */
-  @media (min-width: 1200px) {
+  @media (min-width: 800px) {
     #landing {
         transform:scale(1);
         transition: 2s;
