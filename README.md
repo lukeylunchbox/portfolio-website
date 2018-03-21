@@ -62,4 +62,9 @@ Even then, the fonts I liked didn't compliment each other. I did some more resea
 
 ![fonts](/assets/img/fonts.png)
 
+## Build Challenges
 
+The build started surprisingly well. In one day I was able to almost complete the site, from start to finish.
+Being my first website, I was very happy with this progress.
+
+Day 2, then came the problems.. Although I was building with the 'mobile first' mentality, I was having some compatibility issues on the desktop version.
