@@ -68,6 +68,8 @@ Even then, the fonts I liked didn't compliment each other. I did some more resea
 
 ![fonts](/assets/img/fonts.png)
 
+[logo](/assets/img/lc.png)
+
 ## Build Challenges
 
 The build started surprisingly well. In one day I was able to almost complete the site, from start to finish.
