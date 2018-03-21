@@ -68,7 +68,7 @@ Even then, the fonts I liked didn't compliment each other. I did some more resea
 
 ![fonts](/assets/img/fonts.png)
 
-[logo](/assets/img/lc.png)
+![logo](/assets/img/lc.png)
 
 ## Build Challenges
 
