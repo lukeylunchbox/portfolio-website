@@ -1,5 +1,5 @@
 # Luke's Portfolio Website
-### www.lukecolcott.netlify.com
+### lukecolcott.netlify.com
 
 ## Target audience
 My primary intended audience is employers. I'd like this site to act more as a visual portfolio to store all of my work (once I've got some to show).
@@ -99,4 +99,4 @@ After a little bit of code cleaning and using Mozzilamize on my background image
 
 
 
-View my final product at: [www.lukecolcott.netlify.com](https://www.lukecolcott.netlify.com])
+View my final product at: [www.lukecolcott.netlify.com](https://lukecolcott.netlify.com])
