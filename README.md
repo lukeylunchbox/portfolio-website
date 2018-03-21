@@ -68,6 +68,12 @@ Even then, the fonts I liked didn't compliment each other. I did some more resea
 
 ![fonts](/assets/img/fonts.png)
 
+Finally, the design of my logo.
+
+Obviously it had to be modern. A style that would suit my city landscape theme.
+
+Initially I wanted to display my initials, however I got excited with the circular design and just went with a cursive 'L' in a circle;
+
 ![logo](/assets/img/lc.png)
 
 ## Build Challenges
