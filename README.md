@@ -86,3 +86,7 @@ Netlify made the process very easy, and deals with form handling. I can now acce
 ![google-optimize](/assets/img/google-optimize.png)
 
 After a little bit of code cleaning and using Mozzilamize on my background images to compress them to smaller sizes, I have achieved a Google rating of 81.
+
+
+
+View my final product at: [www.lukecolcott.netlify.com](https://www.lukecolcott.netlify.com])
