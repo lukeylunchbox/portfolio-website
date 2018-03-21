@@ -99,4 +99,4 @@ After a little bit of code cleaning and using Mozzilamize on my background image
 
 
 
-View my final product at: [http://lukecolcott.netlify.com](https://lukecolcott.netlify.com])
+View my final product at: [lukecolcott.netlify.com](lukecolcott.netlify.com])
