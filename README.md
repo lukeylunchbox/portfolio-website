@@ -67,4 +67,16 @@ Even then, the fonts I liked didn't compliment each other. I did some more resea
 The build started surprisingly well. In one day I was able to almost complete the site, from start to finish.
 Being my first website, I was very happy with this progress.
 
-Day 2, then came the problems.. Although I was building with the 'mobile first' mentality, I was having some compatibility issues on the desktop version.
+Day 2, then came the problems.. Although I was building with the 'mobile first' mentality, I was having some compatibility issues on the desktop version. I found it difficult to get a view of my Melbourne city image that I liked on all devices.
+
+Thankfully, I found a CSS property called background:position.
+This way I was able to position the main building in the image to be the center of a mobile screen.
+
+I used the relatively new Flexbox property over and over so the website was responsive. Flexbox definitely saves a lot of time. 
+
+Once the website was written, the last stage was to host it. For this I used Netlify.
+Netlify made the process very easy, and deals with form handling. I can now accept form submissions directly via my personal email address. 
+
+![google-optimize](/assets/img/google-optimize.png)
+
+After a little bit of code cleaning and using Mozzilamize on my background images to compress them to smaller sizes, I have achieved a Google rating of 81.
