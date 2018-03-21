@@ -43,6 +43,10 @@ After creating the above image in Figma, I then realised there was a bit too muc
 I felt the image was distracting. Back to the drawing board!
 
 After creating an assortment of different style and colour schemes, I decided to go black and white.
+
+![designs](/assets/img/black-and-white.png)
+
+black-and-white
 All the colour seemed distracting. I ended up going super-minimalist, with a hint of colour. Aquamarine!
 As soon as I saw the contrast of the aquamarine on a black and white image of Melbourne, I knew I'd found my combination. 
 
