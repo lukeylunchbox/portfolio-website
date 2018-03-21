@@ -72,6 +72,8 @@ Day 2, then came the problems.. Although I was building with the 'mobile first' 
 Thankfully, I found a CSS property called background:position.
 This way I was able to position the main building in the image to be the center of a mobile screen.
 
+![mobile-view](/assets/img/mobile-view.png)
+
 I used the relatively new Flexbox property over and over so the website was responsive. Flexbox definitely saves a lot of time. 
 
 Once the website was written, the last stage was to host it. For this I used Netlify.
