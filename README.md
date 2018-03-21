@@ -39,6 +39,8 @@ After selecting the image I thought suitable, I chose a color scheme to match.
 
 ![designs](/assets/img/first-design.png)
 
+![designs](/assets/img/korea.png)
+
 After creating the above image in Figma, I then realised there was a bit too much going on for a landing page.
 I felt the image was distracting. Back to the drawing board!
 
