@@ -174,6 +174,13 @@ button:hover{
     background-color: #F0F0F0
 }
 
+    .pf-images {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        background-color: #F0F0F0;
+}
+
 section {
     /* width: 100%; */
     background: #F0F0F0; 
@@ -273,4 +280,88 @@ button{
 section #code-icons{
     font-size: 2rem;
     padding-top: 50px;
+}
+
+
+@import "compass/css3";
+
+.container-card * {
+    box-sizing: border-box;
+}
+
+.container-card {
+  padding-top: 50px;
+  padding-bottom: 0;
+  max-width: 1200px;
+  min-width: 320px;
+  margin: 0 auto;
+}
+
+.container-card ul {
+  margin: 0;
+  padding: 20px;
+  list-style: none;
+
+
+}
+.container-card li {
+  padding: 1rem; 
+  background: rgb(230, 230, 230);
+  color: #202020;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  opacity: 0.9;
+}
+
+.container-card li:hover{
+box-shadow: 1px 2px 3px 0px rgba(25,25,25,0.6);
+opacity: 1;
+transition:all 0.5s ease;  
+}
+
+.container-card h2 {
+    margin: 0;
+    font-family: 'Raleway', serif;
+}
+
+.container-card p {
+  color: #555; line-height: 1.5;
+}
+.container-card img {
+ width: 100%; margin-bottom:1.5rem; border-radius: 5px;
+}
+
+
+.container-card .item-list {
+  display: flex; 
+  flex-wrap: wrap;
+  }
+.container-card .item {
+  flex: 100%;
+  margin: 0 0 1.25rem;
+}
+
+@media (min-width: 36em) {
+
+.container-card .item { 
+  flex: 0 0 calc( 50% - 1.25rem / 2 );
+  margin-left: 1.25rem;
+}
+ 
+.container-card .item:nth-child(odd){ 
+   margin-left: 0;
+ }  
+  
+}
+
+@media (min-width: 60em) {
+.container-card .item {flex: 0 0 calc(100% / 3 - 0.875rem);
+}
+  
+.container-card .item:nth-child(odd), item:nth-child(even) { 
+    margin-left: 1.25rem;
+}
+  
+.container-card .item:nth-child(3n+1) { 
+  margin-left: 0;} 
 }
