@@ -60,11 +60,11 @@ section.animated {
     transition: 12s; */
 }
 
-/* #landing:hover{
+ #landing:hover{
     transform:scale(1.02);
     transition: 12s;
-} */
-  @media (min-width: 800px) {
+} 
+   @media (min-width: 800px) {
     #landing {
         transform:scale(1);
         transition: 2s;
@@ -73,7 +73,7 @@ section.animated {
         transform:scale(1.03);
         transition: 11s;
     }
-  }
+  } 
 
 #about-text{
     display: flex;
@@ -168,6 +168,7 @@ button:hover{
   #portfolio-header{ 
     /* padding: 30px;  */
     display: flex;
+    padding: 40px;
     flex-direction: row;
     justify-content: center;   
     background-color: #F0F0F0
