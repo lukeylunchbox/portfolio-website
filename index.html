@@ -18,6 +18,7 @@
     <link rel="stylesheet" href="/assets/styles.css">
     <link rel="icon" type="image/png" href="/assets/img/lc.png">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
+    <link href="https://cdn.rawgit.com/michalsnik/aos/2.1.1/dist/aos.css" rel="stylesheet">
     <title>Luke Colcott</title>
 </head>
 <body>
@@ -55,7 +56,9 @@
                 “Do what you can with what you have where you are.”</p>
                 <br>
                 <br>
-                <a href="/assets/resume.pdf" <button id="resume" type="submit">Download Resume</button></a>
+                <div data-aos="flip-up" data-aos-duration="600">
+                    <a href="/assets/resume.pdf" <button id="resume" type="submit">Download Resume</button></a>
+                </div>
                 <br>
         <div id="code-icons">
                 <i class="devicon-mongodb-plain-wordmark"></i>
@@ -77,7 +80,7 @@
     <div class = "pf-images">
 
             <div class="container-card">
-                    <ul class="item-list">
+                <ul class="item-list" data-aos="fade-up" data-aos-duration="2000">
                       <li class="item item1">
                         <a href="https://github.com/lukeylunchbox/vimport">
                             <img src="assets/img/bw-vimport.png">
@@ -99,25 +102,19 @@
                           <p>Bitter is a Twitter clone built in Ruby on Rails. Users don't Tweet, they Clink! </p>
                         </div>
                       </li>
-                      <li class="item item3">
-                        <a href="https://github.com/lukeylunchbox/terminal-app">
+                         <li class="item item3">
+                             <a href="https://github.com/lukeylunchbox/terminal-app">
                             <img src="assets/img/bw-unforgettable.png">
                         </a>
-                        <div class="item-text">
-                          <h2>Unforgettable</h2>
-                          <p>Unforgettable was my first project built in Ruby. It is a memory game that runs in the terminal. 
-                          </p>
-                        </div>
-                      </li>
+                            <div class="item-text">
+                             <h2>Unforgettable</h2>
+                             <p>Unforgettable was my first project built in Ruby. It is a memory game that runs in the terminal.</p>
+                            </div>
+                        </li>
                   
                     </ul>
                   </div>
-        <!-- <p>
-            <img src="/assets/img/bw-vimport.png" alt="Vimport" width="450" height="300">
-        </p>
-        <p>
-        Vimport Lorem ipsum dolor sit amet consectetur adipisicing elit. A facilis eaque quidem, 
-        </p> -->
+        
     </div>
 
     
@@ -151,6 +148,7 @@
                   </form>
         </div>  
     </section>
-   
+    <script src="https://cdn.rawgit.com/michalsnik/aos/2.1.1/dist/aos.js"></script>
+    <script src="index.js"></script>
 </body>
 </html>
